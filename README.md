@@ -38,8 +38,5 @@ If you are new to AutoCAD or would like to learn more about how these drawings w
 
 If you have any suggestions, improvements, or additional AutoCAD projects you'd like to contribute, please feel free to submit a pull request. Your contributions are welcome and appreciated!
 
-## License
-
-These AutoCAD files are provided under the [MIT License](LICENSE.md), which means you are free to use, modify, and distribute them, but please give appropriate credit and adhere to the terms of the license.
 
 Thank you for visiting this repository, and I hope you find these AutoCAD projects valuable for your own work or learning journey. If you have any questions or feedback, don't hesitate to reach out.
