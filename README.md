@@ -6,13 +6,13 @@ Welcome to the AutoCAD Summer Co-op Projects repository! Here you will find a co
 
 This repository contains the following seven AutoCAD files:
 
-    1. `Diesel system drawing #1`: Top view of a two-system with a pump. 
-    2. `Diesel system drawing #2`: Top view and schematic of a diesel system upgrade, but a concrete pad was installed.
-    3. `Diesel system drawing #3`: Top view and schematic of a diesel system upgrade, but with 15750 LITRE TANK.
-    4. `Diesel system drawing #4`: Schematic of a common diesel system upgrade. 
-    5. `Diesel system drawing #5`: Top view and side view of a diesel system demolition and upgrade; external, sub-base tank was used.
-    6. `Diesel system drawing #6`: Top, side, and schematic view of diesel system upgrade to a Firepump system.
-    7. `Diesel system drawing #7`: Top view of diesel generator demolition and upgrade.
+1. `Diesel system drawing #1`: Top view of a two-system with a pump. 
+2. `Diesel system drawing #2`: Top view and schematic of a diesel system upgrade, but a concrete pad was installed.
+3. `Diesel system drawing #3`: Top view and schematic of a diesel system upgrade, but with 15750 LITRE TANK.
+4. `Diesel system drawing #4`: Schematic of a common diesel system upgrade. 
+5. `Diesel system drawing #5`: Top view and side view of a diesel system demolition and upgrade; external, sub-base tank was used.
+6. `Diesel system drawing #6`: Top, side, and schematic view of diesel system upgrade to a Firepump system.
+7. `Diesel system drawing #7`: Top view of diesel generator demolition and upgrade.
 
 ## About the Projects
 
