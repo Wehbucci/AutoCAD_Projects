@@ -20,8 +20,7 @@ Each project represents a unique design challenge and demonstrates my ability to
 
 ## Usage
 
-You are welcome to explore these AutoCAD files for reference or inspiration. Feel free to use them in your own projects, provided you adhere to the licensing terms specified in the repository.
-
+You are welcome to explore these AutoCAD files for reference or inspiration.
 ## Getting Started
 
 If you are new to AutoCAD or would like to learn more about how these drawings were created, you can follow these steps to get started:
